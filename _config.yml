@@ -1,3 +1,9 @@
 permalink: /notes/:year/:month/:day/:title
 markdown: kramdown
 url: https://jmcglone.com
+exclude:
+  - DECISIONS.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
